@@ -1,7 +1,0 @@
-com\repaso\curillo\controller\PersonaController.class
-com\repaso\curillo\service\GenericService.class
-com\repaso\curillo\RepasoApplication.class
-com\repaso\curillo\service\GenericServiceImpl.class
-com\repaso\curillo\repository\PersonaRepository.class
-com\repaso\curillo\model\Persona.class
-com\repaso\curillo\service\PersonaServiceImpl.class
